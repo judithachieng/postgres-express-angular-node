@@ -1,4 +1,4 @@
-#REST ToDo API 
+# TODO API 
 
 A simple REST API with Node, Express and Postgres (using Sequelize)
 ## Installation
